@@ -1,0 +1,12 @@
+.button, 
+.batton{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman, 'sans-serif';
+}
+.button{
+    background-color: #000000;
+    color: #ffffff;
+}
+.batton{
+    background-color: #ffff00;
+}
